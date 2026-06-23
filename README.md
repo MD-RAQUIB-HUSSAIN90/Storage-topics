@@ -43,6 +43,7 @@ This repository contains my hands-on practice and learning exercises for JavaScr
 * HTML5
 * CSS3
 * JavaScript (ES6)
+* Dom manipulation 
 
 ## Author
 
